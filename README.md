@@ -1,5 +1,5 @@
 # Milagros Pumasupa - jupyter-exploration Portfolio
-My name is **Milagros Pumasupa**. este es mi primer repositorio creado en GitHub
+My name is **Milagros Pumasupa**. This is my first repository in GitHub.
 
 ---
 ## About Me
